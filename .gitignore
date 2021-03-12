@@ -4,3 +4,6 @@
 .DS_Store
 /build_release
 /run/config/config.json
+.ca-certificates/**
+!.ca-certificates/.gitkeep
+*.directory
